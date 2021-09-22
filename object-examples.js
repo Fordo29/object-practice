@@ -18,3 +18,13 @@ var bird = {
   age: 17,
   ageExpectancy: 65,
 };
+
+var customer = {
+  name: "John",
+  age: 43,
+  sex: "Male",
+  aveOrder: 150,
+  usesCoupons: false,
+  usesCreditCard: true,
+  itemsBoughtFrequently: ["frozen dinners", "Bread", "eggs", "milk"],
+}
